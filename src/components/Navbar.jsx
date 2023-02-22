@@ -4,7 +4,6 @@ import React, { Component } from "react";
 
 class Navbar extends Component {
     render() {
-      const style = {"touchAction": "none", "width": "400px", "height": "400px"};
     return (
       <div>
         <header className="header">
