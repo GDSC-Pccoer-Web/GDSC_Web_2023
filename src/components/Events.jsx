@@ -15,19 +15,19 @@ export default function Events() {
   };
   return (
     <div className={styles.sliderContainer}>
-      <Header text="Events"/>
+      <Header text="Events" />
       <Slider {...settings}>
         <div>
-          <img src="/assets/events/acm_1.png" />
+          <img src="/assets/events/acm_1.png" alt="" />
         </div>
         <div>
-          <img src="/assets/events/acm_2.png" />
+          <img src="/assets/events/acm_2.png" alt="" />
         </div>
         <div>
-          <img src="/assets/events/acm_3.png" />
+          <img src="/assets/events/acm_3.png" alt="" />
         </div>
         <div>
-          <img src="/assets/events/acm_4.png" />
+          <img src="/assets/events/acm_4.png" alt="" />
         </div>
       </Slider>
     </div>
