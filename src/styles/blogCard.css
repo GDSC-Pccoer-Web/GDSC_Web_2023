@@ -37,6 +37,7 @@
   transition: all ease-in 100ms;
   margin-bottom: 0.3rem;
   color: #367CFF;
+  font-size: 32px;
 }
 
 .blog-card p {
