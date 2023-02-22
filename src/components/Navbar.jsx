@@ -15,9 +15,7 @@ class Navbar extends Component {
                 src="/images/logo.png"
                 alt="Bankist logo"
               />
-              <p>
-                GDSC PCCOER
-              </p>
+              <p>GDSC PCCOER</p>
             </div>
             <ul className="nav__links">
               <li className="nav__item">
@@ -46,7 +44,10 @@ class Navbar extends Component {
                 </a>
               </li>
             </ul>
-            <a className="nav__link--btn section--hidden" href="#section--2.html">
+            <a
+              className="nav__link--btn section--hidden"
+              href="#section--2.html"
+            >
               <i className="fa-solid fa-calendar"></i>
             </a>
           </nav>
@@ -54,7 +55,7 @@ class Navbar extends Component {
           <div className="header__title">
             <div>
               <h1>
-                Welcome to <br/> GDSC PCCOER
+                Welcome to <br /> GDSC PCCOER
               </h1>
               <button className="btn--text btn--scroll-to section--hidden">
                 Know more <i className="fa-solid fa-angle-down"></i>

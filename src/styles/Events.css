@@ -3,15 +3,25 @@
     margin-left: 40px;
 }
 .dots li button:before{
-    font-size: 15px;
-    line-height: 17px;
+    font-size: 15px !important;
+    line-height: 17px !important;
 }
-
+.events-div{
+  display: flex !important;
+  justify-content: center;
+}
 .container {
   padding-right: 10px;
   padding-left: 10px;
   margin-right: auto;
   margin-left: auto;
+}
+
+.events-img{
+  width: 1280px;
+  width: 1000px;
+    border-radius: 50px;
+  /* height: 583px; */
 }
 @media (min-width: 768px) {
   .container {

@@ -1,6 +1,6 @@
 import Header from './Header';
 import Slider from "react-slick";
-import styles from "../styles/Events.module.css";
+import styles from "../styles/Events.css";
 
 export default function Events() {
   const settings = {
@@ -17,17 +17,29 @@ export default function Events() {
     <div className={styles.sliderContainer}>
       <Header text="Events" />
       <Slider {...settings}>
-        <div>
-          <img src="/assets/events/acm_1.png" alt="" />
+        <div className="events-div">
+          <img className="events-img" src="/assets/events/compose1.jpg" alt="" />
         </div>
-        <div>
-          <img src="/assets/events/acm_2.png" alt="" />
+        <div className="events-div">
+          <img className="events-img" src="/assets/events/compose2.jpg" alt="" />
         </div>
-        <div>
-          <img src="/assets/events/acm_3.png" alt="" />
+        <div className="events-div">
+          <img className="events-img" src="/assets/events/compose4.jpg" alt="" />
         </div>
-        <div>
-          <img src="/assets/events/acm_4.png" alt="" />
+        <div className="events-div">
+          <img className="events-img" src="/assets/events/compose5.jpg" alt="" />
+        </div>
+        <div className="events-div">
+          <img className="events-img" src="/assets/events/compose6.jpg" alt="" />
+        </div>
+        <div className="events-div">
+          <img className="events-img" src="/assets/events/compose7.jpg" alt="" />
+        </div>
+        <div className="events-div">
+          <img className="events-img" src="/assets/events/compose8.jpg" alt="" />
+        </div>
+        <div className="events-div">
+          <img className="events-img" src="/assets/events/compose9.jpg" alt="" />
         </div>
       </Slider>
     </div>

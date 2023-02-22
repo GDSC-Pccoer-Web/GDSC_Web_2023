@@ -1,6 +1,8 @@
-import React, { Component } from 'react'
-import Header from "./Header";
 import "../styles/about.css";
+
+import React, { Component } from 'react'
+
+import Header from "./Header";
 
 class About extends Component {
     render() { 
@@ -9,7 +11,7 @@ class About extends Component {
             <Header text="About the Community" />
             <div className="about-section">
               <img className='center' src="/images/logo.png" alt="" />
-              <p style={{"margin-right": "140px"}}>
+              <p style={{"marginRight": "140px"}}>
                 If you love to code and develop, you are welcome to the world of
                 Google Developer Technologies! GDSC provides you a platform to
                 enhance your technical skills through our free hands-on
