@@ -1,12 +1,15 @@
 import React, { Component } from "react";
 
+import About from "./About";
 import Blogs from "./Blogs";
 import Events from "./Events";
 import Faq from "./Faq";
 import Teams from "./teams";
-import About from "./About";
 
 class Home extends Component {
+  componentDidMount(){
+    document.title = "GDSC PCCOER";
+  }
   render() {
     return (
       <React.Fragment>
