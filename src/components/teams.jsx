@@ -106,34 +106,7 @@ class Teams extends Component{
                 source="/assets/atharva_yadav.jpg"
               />
             </div>
-            <Header text="CP Team" />
-            <div className="teams-container">
-              <TeamCard
-                  name="Dhiraj Patil"
-                  position="CP Team Member"
-                  source="/assets/dhiraj_patil.jpg"
-              />
-              <TeamCard
-                name="Anuj Waghulde"
-                position="CP Team Member"
-                source="/assets/anuj_waghulde.jpg"
-              />
-              <TeamCard
-                name="Saakshi Salunkhe"
-                position="CP Team Member"
-                source="/assets/saakshi_salunkhe.jpg"
-              />
-              <TeamCard
-                name="Sandesh Mundhe"
-                position="CP Team Member"
-                source="/assets/sandesh_mundhe.jpg"
-              />
-              <TeamCard
-                name="Ashwin Lavate"
-                position="CP Team Member"
-                source="/assets/ashwin_lavate.jpeg"
-              />
-            </div>
+            x
             <Header text="Technical Team" />
             <div className="teams-container">
               <TeamCard
