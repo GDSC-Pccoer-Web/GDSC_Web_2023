@@ -11,10 +11,10 @@ import Events from "./pages/Events";
 import About from "./pages/About";
 import { useEffect } from "react";
 import Navbar from "./component/Navbar";
-import React from 'react';
-import Footer from './component/Footer';
-import Teams from './pages/Teams';
-import Initial from './components/Initial';
+import React from "react";
+import Footer from "./component/Footer";
+import Teams from "./pages/Teams";
+import Initial from "./components/Initial";
 
 function App() {
   const action = useNavigationType();
@@ -25,7 +25,9 @@ function App() {
     if (action !== "POP") {
       window.scrollTo(0, 0);
     }
-    document.getElementById('btn').click();
+    if (document.getElementById("btn").length > 0) {
+      document.getElementById("btn").click();
+    }
   }, [action, pathname]);
 
   useEffect(() => {
@@ -75,16 +77,16 @@ function App() {
 
   return (
     <React.Fragment>
-    <Navbar/>
-    <Routes>
-      <Route path="/" element={<Initial />} />
-      <Route path="/blogs" element={<Blogs />} />
-      <Route path="/teams" element={<Teams />} />
-      <Route path="/faq" element={<Faq />} />
-      <Route path="/events" element={<Events />} />
-      <Route path="/about" element={<About />} />
-    </Routes>
-    <Footer/>
+      <Navbar />
+      <Routes>
+        <Route path="/" element={<Initial />} />
+        <Route path="/blogs" element={<Blogs />} />
+        <Route path="/teams" element={<Teams />} />
+        <Route path="/faq" element={<Faq />} />
+        <Route path="/events" element={<Events />} />
+        <Route path="/about" element={<About />} />
+      </Routes>
+      <Footer />
     </React.Fragment>
   );
 }
