@@ -25,8 +25,10 @@ function App() {
     if (action !== "POP") {
       window.scrollTo(0, 0);
     }
-    if (document.getElementById("btn").length > 0) {
+    try {
       document.getElementById("btn").click();
+    } catch (err) {
+      console.log('error');
     }
   }, [action, pathname]);
 
