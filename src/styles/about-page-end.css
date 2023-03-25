@@ -1,0 +1,22 @@
+.about-page-end {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  padding: 0 220px;
+}
+.about-page-end-div {
+  display: flex;
+  flex-direction: column;
+}
+
+.about-page-end-img {
+  margin-top: -135px;
+  transform: scale(0.7);
+  margin-bottom: 15px;
+}
+.about-page-end-title{
+    font-weight: 800;
+}
+.about-page-end-subtitle{
+    font-weight: 500;
+}

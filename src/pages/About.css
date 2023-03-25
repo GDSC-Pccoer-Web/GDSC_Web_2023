@@ -1,0 +1,371 @@
+.android4,
+.vector-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 724px;
+  height: 541px;
+}
+.android4 {
+  top: 2199px;
+  left: -409.35px;
+  font-size: var(--font-size-mini);
+  letter-spacing: 0.03em;
+  line-height: 18px;
+  font-weight: 800;
+  color: var(--color-white);
+  display: inline-block;
+  width: 111.64px;
+  height: 48px;
+  transform: rotate(0.78deg);
+  transform-origin: 0 0;
+}
+.logo-1-icon4 {
+  position: absolute;
+  top: 20px;
+  left: 28px;
+  width: 42px;
+  height: 21px;
+  object-fit: cover;
+}
+.faqs8,
+.home4 {
+  letter-spacing: 0.03em;
+  line-height: 10px;
+  font-weight: 500;
+}
+.faqs8 {
+  position: absolute;
+  top: 25px;
+  left: 504px;
+  font-size: var(--font-size-xs);
+}
+.home4 {
+  position: relative;
+}
+.frame-parent5,
+.frame-parent6,
+.home-parent2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-lgi);
+}
+.frame-parent5,
+.frame-parent6 {
+  gap: var(--gap-sm);
+}
+.frame-parent5 {
+  position: absolute;
+  top: 24px;
+  left: 225px;
+  align-items: center;
+  gap: var(--gap-lg);
+  font-size: var(--font-size-xs);
+}
+.about-child {
+  position: absolute;
+  top: 44px;
+  left: 290px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-crimson);
+  width: 26px;
+  height: 5px;
+}
+.about-item {
+  position: absolute;
+  top: 90.05px;
+  left: 0;
+  width: 46.92px;
+  height: 50.92px;
+}
+.about-child1,
+.about-inner {
+  position: absolute;
+  top: 0;
+  left: 536px;
+  width: 156px;
+  height: 140px;
+}
+.about-child1 {
+  top: 2403px;
+  left: 0;
+  width: 622px;
+  height: 204px;
+}
+.c50b4cb4-ca7a-4bb9-9945-9ade65-icon4 {
+  position: absolute;
+  top: 2428px;
+  left: 169px;
+  width: 264px;
+  height: 48px;
+  object-fit: cover;
+}
+.c50b4cb4-ca7a-4bb9-9945-9ade65-icon5 {
+  position: absolute;
+  top: 1851px;
+  left: 54px;
+  width: 490px;
+  height: 185px;
+  object-fit: cover;
+}
+.follow-us {
+  position: absolute;
+  top: 2476px;
+  left: 28.71px;
+  font-size: var(--font-size-base);
+  letter-spacing: 0.03em;
+  line-height: 18px;
+  font-weight: 800;
+  color: var(--color-goldenrod);
+  display: inline-block;
+  width: 111.64px;
+  height: 51.94px;
+  transform: rotate(0.78deg);
+  transform-origin: 0 0;
+}
+.icon-facebook4,
+.icon-instagram-fill4,
+.icon-mail4,
+.icon-social-linkedin4 {
+  position: absolute;
+  height: 0.62%;
+  width: 4.66%;
+  top: 81.33%;
+  right: 90.84%;
+  bottom: 18.06%;
+  left: 4.5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-facebook4,
+.icon-instagram-fill4,
+.icon-mail4 {
+  height: 0.55%;
+  width: 4.98%;
+  top: 81.37%;
+  right: 81.51%;
+  bottom: 18.08%;
+  left: 13.5%;
+}
+.icon-facebook4,
+.icon-mail4 {
+  height: 0.67%;
+  width: 5.95%;
+  top: 81.26%;
+  right: 61.9%;
+  left: 32.15%;
+}
+.icon-mail4 {
+  height: 0.69%;
+  width: 5.64%;
+  top: 81.23%;
+  right: 53.29%;
+  left: 41.07%;
+}
+.about-the-community,
+.if-you-love {
+  position: absolute;
+  letter-spacing: 0.03em;
+  line-height: 18px;
+  display: inline-block;
+}
+.about-the-community {
+  top: 110px;
+  left: 182px;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+  color: var(--color-crimson);
+  width: 427px;
+  height: 41px;
+}
+.if-you-love {
+  top: 171.52px;
+  left: 70px;
+  font-size: var(--font-size-xs);
+  width: 508.56px;
+  height: 316px;
+  transform: rotate(-0.62deg);
+  transform-origin: 0 0;
+}
+.loan-approved-icon {
+  position: absolute;
+  top: 526px;
+  left: 43px;
+  width: 284px;
+  height: 246px;
+  overflow: hidden;
+}
+.about-child2 {
+  position: absolute;
+  top: 580px;
+  left: 368px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-mediumseagreen);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 210px;
+  height: 69px;
+}
+.gdsc-pccoer,
+.know-more {
+  position: absolute;
+  line-height: 18px;
+  display: inline-block;
+  width: 427px;
+}
+.know-more {
+  top: 606px;
+  left: 406px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: 0.03em;
+  font-weight: 600;
+  color: var(--color-white);
+  height: 41px;
+}
+.gdsc-pccoer {
+  top: 863px;
+  left: 185px;
+  letter-spacing: 0.02em;
+  font-weight: 800;
+  color: var(--color-mediumseagreen);
+  height: 98px;
+}
+/* .download-1-icon  */
+.about-child3
+{
+  position: absolute;
+  top: 972px;
+  left: 58px;
+  width: 486px;
+}
+.about-child3 {
+  background-color: var(--color-gainsboro-100);
+  height: 264px;
+}
+.download-1-icon {
+  height: 325px;
+  object-fit: cover;
+}
+.every-year-google {
+  margin: 0;
+}
+.every-year-google-container,
+.lorem-ipsum-dolor3 {
+  position: absolute;
+  top: 1289px;
+  left: 58px;
+  font-size: var(--font-size-base);
+  letter-spacing: 0.03em;
+  line-height: 18px;
+  font-weight: 500;
+  display: inline-block;
+  width: 486px;
+  height: 413px;
+}
+.lorem-ipsum-dolor3 {
+  top: 2049px;
+  left: 56px;
+  width: 515px;
+  height: 369px;
+}
+.about-child4,
+.about-child5,
+.about-child6,
+.div,
+.div1,
+.div2 {
+  position: absolute;
+  top: 1590px;
+  left: 243px;
+  width: 133px;
+  height: 133px;
+}
+.about-child5,
+.about-child6,
+.div,
+.div1,
+.div2 {
+  left: 411px;
+}
+.about-child6,
+.div,
+.div1,
+.div2 {
+  left: 75px;
+}
+.div,
+.div1,
+.div2 {
+  top: 1743px;
+  left: 112px;
+  letter-spacing: 0.02em;
+  line-height: 18px;
+  font-weight: 800;
+  display: inline-block;
+  width: 162px;
+  height: 108px;
+}
+.div1,
+.div2 {
+  left: 284px;
+}
+.div2 {
+  left: 434px;
+}
+.calendar-icon,
+.customer-icon,
+.people-icon {
+  position: absolute;
+  top: 1624px;
+  left: 441px;
+  width: 74px;
+  height: 65px;
+  object-fit: cover;
+}
+.calendar-icon,
+.customer-icon {
+  top: 1629px;
+  left: 275px;
+  width: 63px;
+  height: 55px;
+}
+.customer-icon {
+  left: 106px;
+  width: 71px;
+  height: 60px;
+}
+.members,
+.participants,
+.workshops {
+  position: absolute;
+  top: 1791px;
+  left: 100px;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.03em;
+  line-height: 18px;
+  font-weight: 500;
+  display: inline-block;
+  width: 115px;
+  height: 56px;
+}
+.participants,
+.workshops {
+  left: 261px;
+}
+.participants {
+  left: 422px;
+  width: 155px;
+}
+.about {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1750px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

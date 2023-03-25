@@ -1,0 +1,9 @@
+.footer-div{
+    width: 100%;
+    background: #000000AB;
+    display: flex;
+    justify-content: center;
+}
+.footer-img{
+    width: 40%;
+}

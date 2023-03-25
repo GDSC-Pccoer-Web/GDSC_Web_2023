@@ -1,0 +1,23 @@
+.about-page-mid {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.about-page-mid div{
+  padding: 10px 40px;
+}
+
+.about-page-mid-btn {
+  height: 69px;
+  width: 210px;
+  border-radius: 30px;
+  background: #0cbc8b;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 18px;
+  letter-spacing: 0.03em;
+  text-align: center;
+  color: white;
+  border: 0;
+}

@@ -1,0 +1,332 @@
+.android3 {
+  position: absolute;
+  top: 2199px;
+  left: -409.35px;
+  font-size: var(--font-size-mini);
+  letter-spacing: 0.03em;
+  line-height: 18px;
+  font-weight: 800;
+  color: var(--color-white);
+  display: inline-block;
+  width: 111.64px;
+  height: 48px;
+  transform: rotate(0.78deg);
+  transform-origin: 0 0;
+}
+.logo-1-icon3 {
+  position: absolute;
+  top: 20px;
+  left: 28px;
+  width: 42px;
+  height: 21px;
+  object-fit: cover;
+}
+.faqs6,
+.home3 {
+  letter-spacing: 0.03em;
+  line-height: 10px;
+  font-weight: 500;
+}
+.faqs6 {
+  position: absolute;
+  top: 25px;
+  left: 504px;
+  font-size: var(--font-size-xs);
+}
+.home3 {
+  position: relative;
+}
+.frame-parent3,
+.frame-parent4,
+.home-parent1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-lgi);
+}
+.frame-parent3,
+.frame-parent4 {
+  gap: var(--gap-sm);
+}
+.frame-parent3 {
+  position: absolute;
+  top: 24px;
+  left: 225px;
+  align-items: center;
+  gap: var(--gap-lg);
+  font-size: var(--font-size-xs);
+}
+.events-child {
+  position: absolute;
+  top: 45px;
+  left: 359px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-royalblue-100);
+  width: 26px;
+  height: 5px;
+}
+.events-item {
+  position: absolute;
+  top: 90.05px;
+  left: 0;
+  width: 46.92px;
+  height: 50.92px;
+}
+.events-child1,
+.events-inner {
+  position: absolute;
+  top: 0;
+  left: 536px;
+  width: 156px;
+  height: 140px;
+}
+.events-child1 {
+  top: 2001px;
+  left: 0;
+  width: 622px;
+  height: 204px;
+}
+.c50b4cb4-ca7a-4bb9-9945-9ade65-icon3 {
+  position: absolute;
+  top: 2020px;
+  left: 127px;
+  width: 264px;
+  height: 48px;
+  object-fit: cover;
+}
+.icon-facebook3,
+.icon-instagram-fill3,
+.icon-mail3,
+.icon-social-linkedin3 {
+  position: absolute;
+  height: 0.62%;
+  width: 4.66%;
+  top: 81.33%;
+  right: 90.84%;
+  bottom: 18.06%;
+  left: 4.5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-facebook3,
+.icon-instagram-fill3,
+.icon-mail3 {
+  height: 0.55%;
+  width: 4.98%;
+  top: 81.37%;
+  right: 81.51%;
+  bottom: 18.08%;
+  left: 13.5%;
+}
+.icon-facebook3,
+.icon-mail3 {
+  height: 0.67%;
+  width: 5.95%;
+  top: 81.26%;
+  right: 61.9%;
+  left: 32.15%;
+}
+.icon-mail3 {
+  height: 0.73%;
+  width: 5.64%;
+  top: 81.21%;
+  right: 53.29%;
+  bottom: 18.06%;
+  left: 41.07%;
+}
+.upcoming-event {
+  margin: 0;
+}
+.upcoming-event-container {
+  position: absolute;
+  top: 104px;
+  left: 201px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: 0.03em;
+  line-height: 18px;
+  font-weight: 600;
+  color: var(--color-crimson);
+  display: inline-block;
+  width: 427px;
+  height: 41px;
+}
+.events-child2 {
+  position: absolute;
+  top: 606px;
+  left: 202px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-crimson);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 210px;
+  height: 69px;
+}
+.past-events {
+  position: absolute;
+  top: 802px;
+  left: 210px;
+  letter-spacing: 0.02em;
+  line-height: 18px;
+  font-weight: 800;
+  color: var(--color-mediumseagreen);
+  display: inline-block;
+  width: 427px;
+  height: 98px;
+}
+.events-child3,
+.events-child4,
+.events-child5 {
+  position: absolute;
+  top: 909px;
+  left: 77px;
+  background-color: var(--color-gainsboro-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 486px;
+  height: 297px;
+}
+.events-child4,
+.events-child5 {
+  top: 1265px;
+  height: 310px;
+}
+.events-child5 {
+  top: 1621px;
+  height: 309px;
+}
+.events-child6,
+.events-child7 {
+  position: absolute;
+  top: 865px;
+  left: 16px;
+  width: 97px;
+  height: 101px;
+}
+.events-child7 {
+  top: 1143px;
+  left: 0;
+  width: 133px;
+  height: 133px;
+}
+.flutter,
+.register {
+  position: absolute;
+  letter-spacing: 0.03em;
+  line-height: 18px;
+  display: inline-block;
+}
+.register {
+  top: 634px;
+  left: 256px;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+  color: var(--color-white);
+  width: 427px;
+  height: 41px;
+}
+.flutter {
+  top: 295px;
+  left: 275px;
+  width: 243px;
+  height: 68px;
+}
+.span {
+  font-size: var(--font-size-5xl);
+}
+.date-25022033-container,
+.time-200-container,
+.venue-lab-503 {
+  position: absolute;
+  top: 366px;
+  left: 212px;
+  letter-spacing: 0.03em;
+  line-height: 18px;
+  font-weight: 600;
+  display: inline-block;
+  width: 212px;
+  height: 47px;
+  font-size: var(--font-size-xl);
+}
+.time-200-container,
+.venue-lab-503 {
+  top: 405px;
+}
+.venue-lab-503 {
+  top: 443px;
+}
+.download-1-1 {
+  position: absolute;
+  top: 1266px;
+  left: 77px;
+  width: 486px;
+  height: 227px;
+  object-fit: cover;
+}
+.compose-camp,
+.compose-camp1 {
+  position: absolute;
+  top: 1523px;
+  left: 193px;
+  letter-spacing: 0.02em;
+  line-height: 18px;
+  font-weight: 800;
+  color: var(--color-mediumseagreen);
+  display: inline-block;
+  width: 427px;
+  height: 98px;
+}
+.compose-camp1 {
+  top: 1875px;
+  left: 186px;
+}
+.download-2-1,
+.gcp-zx2gjlm-1-icon {
+  position: absolute;
+  top: 916px;
+  left: 113px;
+  width: 415px;
+  height: 292px;
+  object-fit: cover;
+}
+.download-2-1 {
+  top: 1621px;
+  left: 78px;
+  width: 486px;
+  height: 226px;
+}
+.group,
+.property-1default-icon {
+  position: absolute;
+  overflow: hidden;
+}
+.property-1default-icon {
+  height: 46.49%;
+  width: 92.4%;
+  top: 2.34%;
+  right: 3.8%;
+  bottom: 51.17%;
+  left: 3.8%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.group {
+  top: 133px;
+  left: 57px;
+  border-radius: var(--br-8xs);
+  border: 1px dashed #9747ff;
+  box-sizing: border-box;
+  width: 526px;
+  height: 855.66px;
+}
+.events6 {
+  position: relative;
+  left: 28%;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2205px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

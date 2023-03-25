@@ -1,0 +1,20 @@
+.navbar-div{
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar-div-options{
+    display: flex;
+    flex-direction: row;
+    padding-top: 10px;
+    margin-right: 20px;
+}
+
+.navbar-div-options div{
+    padding: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}

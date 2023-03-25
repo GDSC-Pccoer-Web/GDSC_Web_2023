@@ -1,0 +1,15 @@
+.contain{
+    margin: 45px 0;
+}
+
+.about-community {
+  text-align: center;
+  color: #ea394a;
+}
+.about-community-text {
+  letter-spacing: 0.03em;
+  line-height: 20px;
+  display: inline-block;
+  font-size: 18px;
+  padding: 30px 320px;
+}

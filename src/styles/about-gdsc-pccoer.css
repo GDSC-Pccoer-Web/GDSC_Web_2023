@@ -1,0 +1,11 @@
+.about-gdsc-pccoer {
+  padding: 10px 150px ;
+}
+
+.about-gdsc-pccoer-h1 {
+  letter-spacing: 0.02em;
+  font-weight: 800;
+  color: var(--color-mediumseagreen);
+  height: 98px;
+  text-align: center;
+}
