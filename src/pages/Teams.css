@@ -38,3 +38,6 @@
     justify-items: center;
   }
 }
+#hidden{
+  opacity: 0;
+}

@@ -15,7 +15,7 @@ class Teams extends Component {
         <Header text="Our Mentor" />
         <div className="teams-container">
           <TeamCard
-            style={{display: "hidden"}}
+            hide="hidden"
             name="Sonali Lunawat"
             position="Facilty Coordinator"
             source="/assets/sonali_maam.png"
@@ -120,7 +120,6 @@ class Teams extends Component {
             source="/assets/atharva_yadav.jpg"
           />
         </div>
-        x
         <Header text="Technical Team" />
         <div className="teams-container">
           <TeamCard

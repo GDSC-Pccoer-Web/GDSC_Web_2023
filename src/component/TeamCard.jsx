@@ -2,9 +2,9 @@ import "../styles/teamCard.css";
 
 import React from "react";
 
-export default function TeamCard ({ name, position, source }) {
+export default function TeamCard ({ name, position, source, hide }) {
       return (
-          <div className="card">
+          <div className="card" id={hide}>
       <img className="propic" src={source} alt="team-images" />
 
       <div className="info">
