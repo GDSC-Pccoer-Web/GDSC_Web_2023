@@ -12,6 +12,14 @@ class Teams extends Component {
       <div className="container">
         <Header text="Meet the Team" />
         <HeroImage source="/assets/team.png" />
+        <Header text="Our Mentor" />
+        <div className="teams-container">
+          <TeamCard
+            name="Sonali Lunawat"
+            position="Facilty Coordinator"
+            source="/assets/sonali_maam.jpg"
+          />
+        </div>
         <Header text="Core Team" />
         <div className="teams-container">
           <TeamCard
