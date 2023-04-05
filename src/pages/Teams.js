@@ -17,12 +17,12 @@ class Teams extends Component {
           <TeamCard
             hide="hidden"
             name="Sonali Lunawat"
-            position="Facilty Coordinator"
+            position="Faculty Advisor"
             source="/assets/sonali_maam.png"
           />
           <TeamCard
             name="Sonali Lunawat"
-            position="Facilty Coordinator"
+            position="Faculty Advisor"
             source="/assets/sonali_maam.png"
           />
         </div>
@@ -167,6 +167,12 @@ class Teams extends Component {
         <Header text="Management Team" />
         <div className="teams-container">
           <TeamCard
+            name="Varenyam Nikam"
+            position="Management Team Member"
+            source="/assets/varenyam_nikam.jpg"
+          />
+
+          <TeamCard
             name="Gayatri Kakad"
             position="Management Team Member"
             source="/assets/gayatri_kakad.png"
@@ -195,11 +201,6 @@ class Teams extends Component {
             name="Pushkar Sarda"
             position="Management Team Member"
             source="/assets/pushkar_sarda.jpg"
-          />
-          <TeamCard
-            name="Varenyam Nikam"
-            position="Management Team Member"
-            source="/assets/varenyam_nikam.jpg"
           />
         </div>
       </div>
